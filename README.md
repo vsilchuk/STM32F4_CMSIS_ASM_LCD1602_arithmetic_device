@@ -49,7 +49,7 @@ Therefore, for the correct operation of the given code, make sure that:
 	
 + Device in work:
 
-	![Device in work](https://github.com/vsilchuk/STM32F4_CMSIS_ASM_LCD1602_arithmetic_device/blob/master/img/display.png "Device in work")
+	![Device in work](https://github.com/vsilchuk/STM32F4_CMSIS_ASM_LCD1602_arithmetic_device/blob/master/img/display.jpg "Device in work")
 	
 ## Links:
 
